@@ -1,0 +1,132 @@
+#parasf {
+    color: black;
+    background-color:rgb(142, 10, 76);
+    text-align: center;
+    border: 2px solid black;
+}
+#ceremony {
+    color: white;
+    background-color: gold;
+    border: 3px solid black;
+    /* padding-left: 500px;
+    margin-left: auto;
+    margin-right: auto; */
+    text-align: center;
+}
+#nav1 li {
+    list-style: none; /*isse bullet points list me se hat jaate hai */
+    float:left;
+    background-color: black;
+    color: white;
+    
+
+}
+#nav1 li a {
+     text-decoration: none; /*isse text k niche waali horizontal line hat jaati hai */
+     color: white;
+     padding:20px 50px;
+     margin: 50px 50px;
+
+    
+}
+#main1 {
+    border: 5px solid green;
+    width: 500px;
+    height: 200px;
+}
+.imp {
+    display: inline;
+    margin: 20px;
+    width: 200px;
+    height: 100px;
+    border: 2px solid red;
+}
+
+
+
+.box{
+    height: 200px;
+    width: 200px;
+    color: white;
+    display:flex;
+}
+#box1{
+    /* position: relative;
+    z-index: 1; */
+    background-color: black;
+    
+}
+#box2{
+    /* position: relative;
+    z-index: 2; */
+    background-color: greenyellow;
+    
+}
+#box3{
+    /* position: relative;
+    z-index: 3; */
+    background-color: beige;
+   
+}
+#box4{
+    /* position: relative;
+    z-index: 4; */
+    background-color: orange;
+    
+}
+#box5{
+    /* position: relative;
+    z-index: 5; */
+    background-color: yellow;
+    
+}
+#photo {
+    margin-left: 380px;
+}
+
+#sfbutton {
+    margin-left: 720px ;
+}
+
+#regiment {
+    text-align: center;
+}
+#ceremonyphoto{
+    margin-left: 460px;
+}
+#table1 {
+    margin-left: 560px;
+}
+#btn{
+    margin-left: 700px;
+    
+}
+.regiment {
+    text-align: center;
+    display: block;
+    list-style: none;
+
+}
+#regiment2 {background-color:rgb(142, 10, 76);
+    color:black ;}
+#regiment4 {background-color:rgb(142, 10, 76) ;
+    color:black ;}
+#regiment6 {background-color:rgb(142, 10, 76) ;
+    color:black ;}
+#regiment8 {background-color:rgb(142, 10, 76) ;
+    color:black ;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
